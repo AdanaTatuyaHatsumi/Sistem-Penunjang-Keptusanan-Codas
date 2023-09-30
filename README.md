@@ -24,7 +24,7 @@ Aplikasi Pendukung Keputusan menggunakan metode codas, berbasis website dengan p
 ## Preview
 - http://codas.epizy.com/
 
-# Tutor Penggunaan APK
+## Tutor Penggunaan APK
 - Silahkan Register
 - Terus Login
 - Input Kriteria
@@ -33,4 +33,5 @@ Aplikasi Pendukung Keputusan menggunakan metode codas, berbasis website dengan p
 - Lihat Laporan
 
 ## Socials
-Insatgaram ([https://www.instagram.com/kasirun.sitorus/])
+- [Insatgaram](https://www.instagram.com/kasirun.sitorus/)
+- [Facebook](https://www.facebook.com/kasirun.sitorus)
