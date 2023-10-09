@@ -35,3 +35,5 @@ Aplikasi Pendukung Keputusan menggunakan metode codas, berbasis website dengan p
 ## Socials
 - [Insatgaram](https://www.instagram.com/kasirun.sitorus/)
 - [Facebook](https://www.facebook.com/kasirun.sitorus)
+
+### By Kasirun Alfauzi BM Sitorus
