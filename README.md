@@ -5,14 +5,17 @@ Aplikasi Pendukung Keputusan menggunakan metode codas, berbasis website dengan p
 - Aplikasi dibangun menggunakan framework codeigniter dengan bahasa pemprograman yang berfokus ke PHP
 - Menggunakan metode Codas untuk pengambilan keputusan
 
+## Apa yang baru?
+- Pembaharuan ke versi php terbaru
+- v1.1
+
 ## Instalasi :
 - Cukup di download atau di clone file filenya
 - Untuk database silahkan dibuat yang baru sesuai yang ada di file application->config->database atau silahkan hubungi wa 0895-8006-87687 untuk file databasenya
 - Untuk Mengetahui lebih lanjut silahkan hubungi Wa
 
 ## Minimum Requiements :
-- PHP 5.x
-- MySql 5.x
+- PHP 8.x
 
 ## Element :
 - PHP
@@ -22,7 +25,7 @@ Aplikasi Pendukung Keputusan menggunakan metode codas, berbasis website dengan p
 - BootStrap
 
 ## Preview
-- http://codas.epizy.com/
+- [Codas](http://adana-russika.rf.gd/codas/)
 
 ## Tutor Penggunaan APK
 - Silahkan Register
